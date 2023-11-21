@@ -17,6 +17,7 @@ define(['N/record'],
          * @since 2015.2
          */
         const beforeLoad = (scriptContext) => {
+            //bncbbxcnbxcnc
             let objRecord = record.load({
                 type: record.Type.SALES_ORDER,
                 id: 88
